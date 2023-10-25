@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem; */
+    margin: 1rem 0.5rem auto;
+
+}
+
+.navbar__logo {
+    font-family: sometype mono;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    color: rgb(94, 95, 96);
+}
+
+.navbar__links {
+    display: flex;
+    margin-top: 0;
+    justify-content: space-between;
+}
+
+
+.links {
+    margin: auto 1.5vh;
+
+}
